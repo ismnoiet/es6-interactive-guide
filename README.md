@@ -4,7 +4,7 @@ An interactive guide to ES6
 [live site](http://projects.formidablelabs.com/es6-interactive-guide/)
 
 
-Running the page locally:
+### Running the page locally:
 
 First you have to get a copy of this project ,to do so you have tow options 
 
